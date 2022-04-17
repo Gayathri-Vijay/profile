@@ -1,0 +1,151 @@
+body{
+  margin: 0px;
+}
+.top_bottom{
+  background-color: #f7dbce;
+}
+.outer{
+  padding-top: 10rem;
+}
+.inner{
+  text-align: center;
+  position: relative;
+  bottom: 3.8rem;
+  left: auto;
+  right: auto;
+}
+.avatar_left{
+  width: 15rem;
+  height: 20rem;
+}
+.heading{
+  display: inline-block;
+  color: #3A3845;
+  font-family: 'Hurricane', cursive;
+  font-size: 70px;
+  margin: 0px;
+}
+.head_position{
+  position: relative;
+  bottom: 6rem;
+  padding-right: 10rem;
+}
+.blossom{
+  height:250px;
+  position: relative;
+  top:60px;
+  bottom:0px;
+}
+.photo{
+  width: 11rem;
+  height: 11rem;
+}
+.about{
+  margin:100px auto;
+  width:50%;
+  text-align: center;
+  line-height: 2;
+}
+.giphy{
+  margin-top: 2rem;
+  padding-right: 2rem;
+  width: 10rem;
+  height: 12rem;
+  float: left;
+}
+.giphy_right{
+  float: right;
+  padding-left: 2rem;
+}
+.middle{
+  margin:100px auto;
+  width:50%;
+  text-align: left;
+  line-height: 2;
+}
+.content{
+  font-family: 'Inter', sans-serif;
+  color: #3A3845;
+  font-size: 20px;
+  font-weight: 300;
+  margin: 1rem 0rem;
+}
+.subhead{
+  font-family: 'Inter', sans-serif;
+  color: #eb134c;
+  font-size: 40px;
+  font-weight: 400;
+  margin: 1rem 0rem;
+}
+.avatar_right{
+  display: inline-block;
+  width: 15rem;
+  height: 20rem;
+  position: relative;
+  right:11rem;
+}
+.links{
+text-align: center;
+padding: 1rem;
+}
+.bottom{
+  font-family: 'Inter', sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+  color: #3A3845;
+  display: inline-block;
+  text-align: center;
+  width: 50%;
+  margin-left: 15rem;
+  position: relative;
+  bottom: 4rem;
+}
+.btn {
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  color: #f7dbce;
+  font-size: 20px;
+  box-shadow: 1px 1px 1px #3A3845;
+  padding: 10px 25px;
+  border-radius: 20px;
+  border: 0px solid #3A3845;
+  background: #3A3845;
+}
+.btn:hover {
+  color: #3A3845;
+  background: #F7CCAC;
+}
+.contact{
+position: relative;
+left: 31.5rem;
+top:2.9rem;
+bottom:3rem;
+line-height: 2.5;
+}
+.button_class{
+  position: relative;
+  top:1rem;
+  left: 12.5rem;
+  text-decoration: none;
+}
+.home{
+  position: relative;
+  bottom: 5rem;
+  left: 22rem;
+  background-color: #f7dbce;
+}
+.con_sec{
+  height: 625px;
+}
+.tab{
+  display: inline-block;
+}
+
+/* hr{
+  border-color: #f5745b;
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+
+} */
